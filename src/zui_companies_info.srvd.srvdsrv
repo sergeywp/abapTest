@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for Companies Info'
+define service ZUI_COMPANIES_INFO {
+  expose ZC_COMPANYS_INFO as CompaniesInfo;
+}
